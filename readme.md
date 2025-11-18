@@ -1,4 +1,4 @@
-# Flixx Movie APp
+# Flixx Movie App
 
 Vanilla JavaScript Flixx Movie app from my Modern JS From The Beginning course.
 
